@@ -1,4 +1,4 @@
-# Yogmitra-Assignment
+# YogaMitra-Assignment
 Swaraj Garud. 
 Vishwakarma Institute Of Technology, Pune. 
 Computer Engineering
